@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{H06R:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/aboutus",function(){return t("njM6")}])},njM6:function(n,u,t){"use strict";t.r(u);var e=t("q1tI"),o=t.n(e),a=t("ezhv"),w=o.a.createElement;u.default=function(){return w(o.a.Fragment,null,w(a.a,null,w("h1",null," About  Us Page")))}}},[["H06R",0,1]]]);
